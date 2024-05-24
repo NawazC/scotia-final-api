@@ -1,0 +1,111 @@
+.logo-ctl{
+  width: 50px;
+  height: 50px;
+}
+.logoname{
+  color:red;
+  font-weight: bold;
+}
+
+.myNav li a{
+color: black;
+font-size: 20px;
+font-weight: bold;
+padding: 5px;
+}
+
+.myNav li a:hover{
+  color: red;
+  }
+
+.hero-left{
+ 
+}
+
+.hero-left h2{
+color: black;
+padding-bottom: 10px;
+padding-top: 100px;
+}
+
+
+.hero-left p{
+  color: black;
+  font-size: 16px;
+  }
+.hero-logo{
+  color: red;
+}
+
+.hero-button{
+  background: red;
+  padding: 20px;
+  border: 0px;
+  color:white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.hero-button:hover{
+  background:rgba(157, 38, 38, 0.949);
+}
+
+.body-content{
+  margin-top: 50px;
+  background-color: rgb(243, 241, 241);
+  padding: 30px;
+  width:435px;
+  border:5px solid white;
+  margin-bottom: 50px;
+  
+}
+
+.footer{
+  text-align: center;
+  background-color: black;
+  color:white;
+  padding: 30px;
+}
+
+
+.loginArea{
+  min-height: 500px;
+}
+.loginBody{
+  margin-top: 200px;
+}
+
+.loginbutton{
+  background-color: red;
+  font-size: 20px;
+  color:white;
+  border: 0px;
+  padding: 10px 40px;
+  border-radius: 0px;
+}
+.loginbutton:hover{
+  background-color: black;
+}
+.loginBody input{
+  border-radius: 0px;
+}
+
+.themebutton{
+  background-color: red;
+  padding:10px 40px;
+  margin-right: 10px;
+  border-radius: 0px;
+  border: 0px;
+}
+
+.themebutton:hover{
+  background-color:black;
+ 
+}
+
+.transection-area{
+  min-height: 700px;
+}
+.transection-form input{
+  border-radius: 0px;
+}
